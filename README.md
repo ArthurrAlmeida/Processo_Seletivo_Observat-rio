@@ -27,4 +27,16 @@
 
 <h4> b) Scripts. </h4>
 
-<p>  </p>
+<p> Resposta no arquivo etl_spark_sqlserver.py </p>
+
+<h4> b) Scripts PySpark criação tabelas atracao_fato e carga_fato. </h4>
+
+<p> Resposta no arquivo etl_spark_sqlserver.py </p>
+
+<h4> b) Scripts SQL consulta tabelas com dados Ceará, Nordeste e Brasil. </h4>
+
+<p> Resposta no arquivo ConsultaNaviosAtracar.sql </p>
+
+<h4> 3) Criação da DAG para base ANTAQ. </h4>
+
+<p> Resposta no arquivo DAG_Etl_ANTAQ.py </p>
